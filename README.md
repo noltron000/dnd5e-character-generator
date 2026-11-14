@@ -1,3 +1,5 @@
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
+
 # Character Generator for D&D 5e
 > *View the project live at [https://projects.nebuloid.dev/dnd5e-character-generator/](https://projects.nebuloid.dev/dnd5e-character-generator/).*
 
